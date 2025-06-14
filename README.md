@@ -44,4 +44,3 @@ gcc -o maquina main.c interpret.c stack.c
 30
 > exit
 ```
-Correção readme
