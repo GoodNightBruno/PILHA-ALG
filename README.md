@@ -27,7 +27,7 @@ Implementar um interpretador para uma máquina virtual baseada em pilha, agora c
 
 ## Como compilar
 ```bash
-gcc main.c interpret.c stack.c lista.c -o maquina-pilha
+gcc main.c interpret.c stack.c lista.c -o PILHA-ALG
 ```
 
 ---
