@@ -6,3 +6,4 @@ int pop();
 int is_empty();
 
 #endif
+
