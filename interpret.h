@@ -1,5 +1,5 @@
-#ifndef INTERPRETE_H
-#define INTERPRETE_H
+#ifndef INTERPRET_H
+#define INTERPRET_H
 
 void interpret(const char *source);
 
